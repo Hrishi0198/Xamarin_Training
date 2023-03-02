@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{0BCD309A-12A0-4B9F-BAC0-F816D3F3EFCF}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_API_5.7in" />
+  <MonoDevelop.Ide.ItemProperties.XamarinAssignment.Android PreferredExecutionTarget="Android.Pixel_4_API_5.7in" />
+  <MonoDevelop.Ide.ItemProperties.XamarinAssignment.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinAssignment/XamarinAssignment/LoginPage.xaml">
+    <Files>
+      <File FileName="XamarinAssignment/XamarinAssignment/MainPage.xaml.cs" />
+      <File FileName="XamarinAssignment/XamarinAssignment/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="XamarinAssignment/XamarinAssignment/LoginPage.xaml" Line="37" Column="1" />
+      <File FileName="XamarinAssignment/XamarinAssignment/LoginPage.xaml.cs" Line="17" Column="1" />
+      <File FileName="XamarinAssignment/XamarinAssignment/App.xaml.cs" Line="13" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinAssignment" expanded="True">
+            <Node name="XamarinAssignment" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="LoginPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
